@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: 600;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #0b131e;
+  color: white;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+.today::-webkit-scrollbar {
+  display: none;
+}
