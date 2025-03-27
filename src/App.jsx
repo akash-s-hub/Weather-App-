@@ -33,7 +33,7 @@ function App() {
         `${baseURL}?q=${city}&days=7`,
         {
           headers: {
-            "x-rapidapi-key": "425f39dd5fmsh2140c77ad45fb2fp12f88djsnd63928aafad4",
+            "x-rapidapi-key": "1d5dec71f8msh5b3eba4955da49ep1ad024jsn1e10c21e5a9c",
             "x-rapidapi-host": "weatherapi-com.p.rapidapi.com",
           },
         }
